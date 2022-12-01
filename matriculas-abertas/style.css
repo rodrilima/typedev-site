@@ -22,7 +22,14 @@ body {
 
 .btn-buy {
   width: 600px;
+  max-width: 95%;
   font-weight: bolder;
+}
+
+.youtube-video {
+  width: 650px;
+  height: 380px;
+  max-width: 100%;
 }
 
 .header-video {
